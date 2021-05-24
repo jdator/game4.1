@@ -110,7 +110,7 @@ function title() {
   text('👽use arrow keys to collide with enemy aliens🛸', 22, h/2);
 
   textSize(20);
-  text('☄️watch out for meteors!☄️', 140, 350);
+  text('☄️watch out for meteors!☄️', 150, 355);
 
   textSize(35);
   text('click anywhere to start', 60, 500);
